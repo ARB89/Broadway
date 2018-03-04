@@ -1,27 +1,16 @@
 .foto{
-  position: relative;
-}
-.texto{
-  font-size: 70px;
-  font-weight: bold;
-  text-align:
-  color: white;
-  bottom: 0px;
-  margin: 0px;
-  position: absolute;
+  background-image: url("../imagenes/the-flatiron-building.png");
+  font-family: Helvetica;
+  font-size: 18px;
+  color:white;
 }
 body{
-  font-family: helvetica;
+  font-family: Helvetica;
   text-align: center;
 }
-.letras{
-  font-size: 18px;
-  color: white;
-  text-align: center;
-  line-height: 3;
-}
+
 h1,
-h2,{
+h2{
   font-weight: bold;
 }
 
@@ -32,25 +21,13 @@ h2{
   font-size: 23px;
 }
 p{
+  text-align: center;
   font-size: 14px;
 }
-.segunda{
-  position: relative;
-}
-.palabras{
-  font-size:23px;
-  font-weight: bold;
-  color: white;
-  bottom: 0px;
-  margin: 0px;
-  position: absolute;
-}
-.todo{
+.ultimo{
+  font-family: Helvetica;
   font-size: 11px;
   color:white;
   background-color: dimgray;
-  text-align: right;
-  border: 15;
-  padding-right: 20;
-  margin-right: auto;
+
 }
