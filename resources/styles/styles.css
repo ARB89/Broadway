@@ -1,9 +1,20 @@
-h1{
+.foto{
+  position: relative;
+}
+.texto{
   font-family: helvetica;
   font-size: 70px;
   font-weight: bold;
-  color: white;
+  color:white;
+  position: absolute;
+  bottom: 0px;
+  margin: 0px;
 }
 body{
-  color: red;
+  text-align: center;
+}
+h2{
+  font-family: helvetica;
+  font-size: 18px;
+  color:white;
 }
